@@ -1,0 +1,12 @@
+1
+U001
+Alice
+Premium
+1
+U002
+Bob
+Free
+4
+8
+READ50
+13

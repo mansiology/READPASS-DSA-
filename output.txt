@@ -1,0 +1,49 @@
+========================================
+READPASS SUBSCRIPTION & PAYWALL SYSTEM
+========================================
+
+===== READPASS MENU =====
+1. Add User
+2. Search User
+3. Delete User
+4. Show All Users
+5. Grant Access
+6. Undo Access
+7. Register Click
+8. Validate Coupon
+9. Sort Articles
+10. Display Content Graph
+11. Find Reading Path
+12. Optimize Pricing
+13. Exit
+Enter your choice: 1
+Enter User ID: U001
+Enter Name: Alice
+Enter Tier (Free/Premium): Premium
+User added/updated: Alice (Premium)
+
+===== READPASS MENU =====
+...
+Enter your choice: 1
+Enter User ID: U002
+Enter Name: Bob
+Enter Tier (Free/Premium): Free
+User added/updated: Bob (Free)
+
+===== READPASS MENU =====
+...
+Enter your choice: 4
+All Subscribers:
+U002 Bob Free
+U001 Alice Premium
+
+===== READPASS MENU =====
+...
+Enter your choice: 8
+Enter Coupon Code: READ50
+Checking coupon 'READ50': VALID
+
+===== READPASS MENU =====
+...
+Enter your choice: 13
+Exiting system. Goodbye!
